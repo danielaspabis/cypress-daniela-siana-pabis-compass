@@ -1,0 +1,23 @@
+{
+  "name": "cypress-daniela-siana-pabis-compass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielaspabis/cypress-daniela-siana-pabis-compass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielaspabis/cypress-daniela-siana-pabis-compass/issues"
+  },
+  "homepage": "https://github.com/danielaspabis/cypress-daniela-siana-pabis-compass#readme",
+  "devDependencies": {
+    "cypress": "^15.15.0"
+  }
+}
